@@ -5,7 +5,7 @@ theme: just-the-docs
 baseurl: "/justtherepo"
 url: "https://yourusername.github.io"
 
-color_scheme: light
+color_scheme: dark
 
 # Enable search
 search_enabled: true
