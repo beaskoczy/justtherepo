@@ -1,5 +1,7 @@
 title: Just the Repo
 description: Test repo using Just-the-Docs process
+theme: just-the-docs
+
 baseurl: "/justtherepo"
 url: "https://yourusername.github.io"
 
