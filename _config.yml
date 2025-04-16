@@ -3,9 +3,6 @@ description: Test repo using Just-the-Docs process
 baseurl: "/justtherepo" # your repository name
 url: "https://yourusername.github.io" # your GitHub Pages URL
 
-# Optional customization
-logo: "/assets/images/logo.png"
-favicon_ico: "/assets/images/favicon.ico"
 color_scheme: light
 
 # Enable search
