@@ -1,8 +1,17 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: Just the Repo
+description: Test repo using Just-the-Docs process
+baseurl: "/justtherepo" # your repository name
+url: "https://yourusername.github.io" # your GitHub Pages URL
 
-url: https://just-the-docs.github.io
+# Optional customization
+logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.ico"
+color_scheme: light
 
+# Enable search
+search_enabled: true
+
+# Navigation links
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "View on GitHub":
+    - "//github.com/yourusername/my-documentation"
